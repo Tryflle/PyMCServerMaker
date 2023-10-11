@@ -1,5 +1,5 @@
 # PyMCServerMaker
-A lil python script that quickly sets up a self-hosted PaperMC server
+A lil python script that quickly sets up a self-hosted PaperMC server intended for Windows.
 # Usage
 1. Download the .py script and run it with Python by either cloning the repo or just downloading it directly. *OBVIOUSLY REQUIRES YOU HAVE PYTHON
 2. All files will be written to %userprofile%\Documents\PythonServer
